@@ -1,6 +1,6 @@
 # Discipline Equals Freedom
 
-This is a simple HTML and CSS project that displays a motivational quote along with an image. The project demonstrates how to use basic HTML tags, such as <img>, <h1>, and <p>, as well as CSS styling to create a visually appealing layout.
+This is a simple HTML and CSS project that displays a motivational quote along with an image. The project demonstrates how to use basic HTML tags.
 
 ## Installation
 To view this webpage, simply open the index.html file in your preferred web browser.
